@@ -1,7 +1,7 @@
-# zeldaSokoban
+# 👑 Zelda Sokoban
 
 ## Description
-👑 Created a 3 level Sokoban game using arrays, implementing dynamic character movement and a cozy pixel theme.
+Created a 3 level Sokoban game using arrays, implementing dynamic character movement and a cozy pixel theme.
 
 This Android App utilizes multi-dimensional arrays to generate level outlines, allowing the user to move the plant to the designated area. The user is involved in an immersive experience through level prompts by characters, collecting coins throughout the game and having a limited number of lives.
 
